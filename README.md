@@ -6,6 +6,8 @@ Currently, there are two issues in automatic summarization dataset for Chinese: 
 
 CLTS is a new Chinese long text summarization dataset, extracted from the Chinese news website [ThePaper.cn](https://www.thepaper.cn). The resulting version of the dataset contains more than 180,000 **long-sequence pairs**, where each article consists of multiple paragraphs and each summary consists of multiple sentences. 
 
+The dataset is introduced in [CLTS: A New Chinese Long Text Summarization Dataset](https://link.springer.com/chapter/10.1007%2F978-3-030-60450-9_42).
+
 ## Properties
 The comparison result of CLTS to other datasets is shown in the table below. For Chinese dataset, length is the number of Chinese characters, while for English, it is the number of words.
  |           Dataset         | CLTS       |    LCSTS   |  CNN/DM     |
