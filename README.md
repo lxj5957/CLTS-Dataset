@@ -22,4 +22,4 @@ The comparison result of CLTS to other datasets is shown in the table below. For
 We select some samples from the dataset and you can see them in [samples.txt](https://github.com/lxj5957/CLTS-Dataset/blob/master/samples.txt)
 
 ## Download
-We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1skhl1HKUfRyFa7z3t8dH-g). If you want to get the password, please feel free to contact with us by: liuxiaojun@iie.ac.cn
+We split the corpus into three parts, including training, validation and test set. The data can be downloaded from the link [here](https://pan.baidu.com/s/1skhl1HKUfRyFa7z3t8dH-g). And the password is ***iucp***. 
